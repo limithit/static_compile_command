@@ -1,2 +1,2 @@
 # static_compile_command
-Used to check rootkit and hook type Trojans
+Used to check rootkit or hook type Trojans 
